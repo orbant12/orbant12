@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @orbant12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m Tamas Orban 👋
 
-<!---
-orbant12/orbant12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend Stack: 
+• Language | JavaScript, HTML, CSS
+• Libary | React, React Native
+
+Backend Stack: 
+• Language | Python, JavaScript, C++, C
+• Libary | TensorFlow, Pytorch, Node.js, Express.js
+
+Work:
+• Machine Learning
+• Web Development
+• Mobile Development
+
+
+
