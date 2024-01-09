@@ -1,14 +1,10 @@
 Hi, I’m Tamas Orban 👋
 
-Frontend Stack: 
-• Language | JavaScript, HTML, CSS
-• Libary | React, React Native
+• Languages: Javascript | Python | Swift | HTML | CSS
 
-Backend Stack: 
-• Language | Python, JavaScript, C++, C
-• Libary | TensorFlow, Pytorch, Node.js, Express.js
+• Libaries: React | React Native | Node | Tensorflow | Numpy | Pytorch 
 
-Work:
+Specializations :
 • Machine Learning
 • Web Development
 • Mobile Development
