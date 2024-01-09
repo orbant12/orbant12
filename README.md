@@ -4,10 +4,8 @@ Hi, I’m Tamas Orban 👋
 
 • Libaries: React | React Native | Node | Tensorflow | Numpy | Pytorch 
 
-Specializations:
-  • Machine Learning
-  • Web Development
-  • Mobile Development
+• Specializations: Machine Learning | Web Development | Mobile Development
+ 
 
 
 
