@@ -5,7 +5,7 @@
   
 • **Languages**: Javascript | Python | Swift | HTML | CSS | C | C++ | SQL
 
-• **Libraries**: React | React Native | Node | Express | Tensorflow | Numpy | Pytorch | Pandas | Firebase
+• **Libraries**: React | React Native | Node | Express | Tensorflow | Numpy | Pytorch | Pandas | Firebase | Flask
 
 • **Specializations**: Machine Learning | Web Development | Mobile Development
 
