@@ -13,6 +13,6 @@
 - 📫 How to reach me [ mailto:orbant1@gmail.com ] 
 - ⚡ Youtube [ https://www.youtube.com/@BetterByte.]
 
-[![Tamas's GitHub stats](https://github-readme-stats.vercel.app/api?username=orbant12&show_icons=true&theme=radical)](https://github.com/orbant12/github-readme-stats)
+
 
 
