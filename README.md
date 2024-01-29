@@ -8,9 +8,13 @@
 • **Libraries**: `React` | `React Native` | `Node` | `Express` | `Tensorflow` | `Numpy` | `Pytorch` | `Pandas` | `Firebase` | `Flask`
 
 • **Specializations**: `Machine Learning` | `Web Development` | `Mobile Development`
-
+---
+## 📦 Feel free to contact me
+<a href="mailto:orbant1@gmail.com">Email</a>
+---
+## 📦 Contact
 - 📝 My portfolio Website [ https://betterbyte.net ]
-- 📫 How to reach me [ mailto:orbant1@gmail.com ] 
+- 📫 Feel free to contact me [ mailto:orbant1@gmail.com ] 
 - ⚡ Youtube [ https://www.youtube.com/@BetterByte.]
 
 
