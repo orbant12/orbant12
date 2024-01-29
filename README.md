@@ -11,16 +11,15 @@
 
 ---
 
-## 📫 Feel free to contact me
+## 📫 Contact
 - **Email**: [ mailto:orbant1@gmail.com ]
 - **Instagram**: [ mailto:orbant1@gmail.com ]
 - **Linkedin**: [ mailto:orbant1@gmail.com ]
   
 ---
 
-## 📦 Contact
+## 📦 Other
 - 📝 My portfolio Website [ https://betterbyte.net ]
-- 📫 Feel free to contact me [ mailto:orbant1@gmail.com ] 
 - ⚡ Youtube [ https://www.youtube.com/@BetterByte.]
 
 
