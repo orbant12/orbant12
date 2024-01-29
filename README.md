@@ -13,8 +13,7 @@
 
 ## 📫 Contact
 - **Email**: [ mailto:orbant1@gmail.com ]
-- **Instagram**: [ mailto:orbant1@gmail.com ]
-- **Linkedin**: [ mailto:orbant1@gmail.com ]
+- For a quick response, DM me on [Instagram](https://www.instagram.com/mirayatech/) or [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/). 
   
 ---
 
