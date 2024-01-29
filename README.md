@@ -11,11 +11,13 @@
 
 ---
 
-## 📫 Contact
+## 📫 Feel free to contact me
 - **Email**: [ mailto:orbant1@gmail.com ]
 - **Instagram**: [ mailto:orbant1@gmail.com ]
 - **Linkedin**: [ mailto:orbant1@gmail.com ]
+  
 ---
+
 ## 📦 Contact
 - 📝 My portfolio Website [ https://betterbyte.net ]
 - 📫 Feel free to contact me [ mailto:orbant1@gmail.com ] 
