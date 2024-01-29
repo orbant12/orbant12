@@ -8,7 +8,9 @@
 • **Libraries**: `React` | `React Native` | `Node` | `Express` | `Tensorflow` | `Numpy` | `Pytorch` | `Pandas` | `Firebase` | `Flask`
 
 • **Specializations**: `Machine Learning` | `Web Development` | `Mobile Development`
+
 ---
+
 ## 📫 Contact
 - **Email**: `mailto:orbant1@gmail.com`
 ---
