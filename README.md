@@ -9,8 +9,8 @@
 
 • **Specializations**: `Machine Learning` | `Web Development` | `Mobile Development`
 ---
-## 📦 Feel free to contact me
-<a href="mailto:orbant1@gmail.com">Email</a>
+## 📫 Contact
+- **Email**: `mailto:orbant1@gmail.com`
 ---
 ## 📦 Contact
 - 📝 My portfolio Website [ https://betterbyte.net ]
