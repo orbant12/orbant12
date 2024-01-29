@@ -12,7 +12,7 @@
 ---
 
 ## 📫 Contact
-**Email**: [`mailto:orbant1@gmail.com`]
+**Email**: [ mailto:orbant1@gmail.com ]
 **Instagram**: `mailto:orbant1@gmail.com`
 **Linkedin**: `mailto:orbant1@gmail.com`
 ---
