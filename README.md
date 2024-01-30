@@ -3,11 +3,13 @@
 
 ## 📦 Skills
   
-• **Languages**: `Javascript` | `Python` | `C` | `C++` | `Swift` | `HTML` | `CSS` | `SQL`
+• **Languages**: `Javascript` | `Python` | `C++` | `Swift` | `HTML` | `CSS` | `SQL`
 
-• **Libraries**: `React` | `React Native` | `Node` | `Express` | `Tensorflow` | `Numpy` | `Pytorch` | `Pandas` | `Firebase` | `Flask`
+• **Libraries**: `React` | `React Native` | `Node` | `Express` | `Tensorflow` | `Numpy` | `Pytorch` | `Pandas` | `Flask`
 
 • **Specializations**: `Machine Learning` | `Web Development` | `Mobile Development`
+
+• **Other**: `Docker` | `Git` | `Github` | `Vite` | `Firebase` | `AWS`
 
 ---
 
