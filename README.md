@@ -7,7 +7,7 @@
 
 • **Libraries**: `React` | `React Native` | `Node` | `Express` | `Tensorflow` | `Numpy` | `Pytorch` | `Pandas` | `Flask`
 
-• **Specializations**: `Machine Learning` | `Web Development` | `Mobile Development`
+• **Specializations**: `Machine Learning` | `Web Development` | `Mobile Development` | `Cyber Security`
 
 • **Other**: `Docker` | `Git` | `Github` | `Vite` | `Firebase` | `AWS`
 
