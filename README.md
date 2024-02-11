@@ -11,7 +11,7 @@
 
 • **Other**: `Docker` | `Git` | `Github` | `Vite` | `Firebase` | `AWS`
 
-• **Free Time**: `Hack The Box` | `Kaggle` | `Apps for Automating`
+• **Free Time**: `Hack The Box` | `Kaggle` | `Apps for Automating Life Tasks`
 
 ---
 
