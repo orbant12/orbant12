@@ -3,7 +3,7 @@
 
 ## 📦 Skills
   
-• **Languages**: `Javascript` | `Python` | `C++` | `Swift` | `HTML` | `CSS` | `SQL`
+• **Languages**: `Javascript` | `Python` | `Rust` | `C++` | `Swift` | `HTML` | `CSS` | `SQL`
 
 • **Libraries**: `React` | `React Native` | `Node` | `Express` | `Tensorflow` | `Numpy` | `Pytorch` | `Pandas` | `Flask`
 
