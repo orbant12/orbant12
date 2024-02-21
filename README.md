@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Tamas Orban 👋</h1>
-<h3 align="center">A passionate Computer Science student 
+<h3 align="center">A passionate Computer Science student from Hungary
 
 ## 📦 Skills
   
