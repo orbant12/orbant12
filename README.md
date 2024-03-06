@@ -7,9 +7,9 @@
 
 • **Libraries**: `React` | `React Native` | `Node` | `Tensorflow` | `Numpy` | `Pytorch` | `Pandas` | `Flask`
 
-• **Specializations**: `Machine Learning` | `Web Development` | `Mobile Development` | `Cyber Security` 
+• **Specializations**: `Machine Learning` | `Web Development` | `Mobile Development` | `Penetration Testing` 
 
-• **Other**: `Docker` | `Git` | `Vite` | `Firebase` | `AWS` | `Kali Linux`| `OOP`
+• **Other**: `Docker` | `Git` | `Vite` | `Firebase` | `AWS` | `Kali Linux`| `OOP`  
 
 • **Free Time**: `Hack The Box` | `Kaggle` | `Apps for Automations`
 
