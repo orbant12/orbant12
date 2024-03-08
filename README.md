@@ -5,7 +5,7 @@
   
 • **Languages**: `Javascript` | `Python` | `Rust` | `Typescript` | `C++` | `Swift` | `HTML` | `CSS` | `SQL` | `Java`
 
-• **Libraries**: `React` | `React Native` | `Node` | `Tensorflow` | `Numpy` | `Pytorch` | `Pandas` | `Flask` | `CUDA`
+• **Libraries**: `React` | `React Native` | `Node` | `Tensorflow` | `Numpy & Pandas` | `Flask` | `CUDA`
 
 • **Specializations**: `Machine Learning` | `Web Development` | `Mobile Development` | `Penetration Testing` 
 
