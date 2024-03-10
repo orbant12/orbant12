@@ -9,7 +9,7 @@
 
 • **Specializations**: `Machine Learning` | `Web Development` | `Mobile Development` | `Penetration Testing` 
 
-• **Other**: `Docker` | `Git` | `Vite` | `Firebase` | `AWS` | `Kali Linux`| `OOP`  
+• **Other**: `Docker` | `Git` | `Vite` | `Firebase` | `AWS` | `Kali Linux`|
 
 • **Free Time**: `Hack The Box` | `Kaggle` | `Apps for Automations`
 
