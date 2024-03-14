@@ -11,7 +11,7 @@
 
 • **Other**: `Docker` | `Git` | `Vite` | `Firebase` | `AWS` 
 
-• **Free Time**: `Hack The Box` | `Kaggle` | `Apps for Automations`
+• **Free Time**: `Pentest - Capture The Flag` | `Kaggle` | `Apps for Automations`
 
 ---
 
