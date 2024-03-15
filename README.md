@@ -3,13 +3,13 @@
 
 ## 📦 Skills
   
-• **Languages**: `Javascript` | `Python` | `Rust` | `Typescript` | `C++` | `Swift` | `HTML` | `CSS` | `SQL` | `Java`
+• **Languages**: `Javascript` | `Python` | `Rust` | `Typescript` | `Swift` | `HTML` | `CSS` | `SQL` | `Java`
 
 • **Libraries**: `React` | `React Native` | `Node` | `Tensorflow` | `Numpy & Pandas` | `Flask` | `CUDA`
 
 • **Specializations**: `Machine Learning` | `Web Development` | `Mobile Development` | `Penetration Testing` 
 
-• **Other**: `Docker` | `Git` | `Vite` | `Firebase` | `AWS` 
+• **Other**: `Docker` | `Git` | `Vite` | `Firebase` | `AWS`
 
 • **Free Time**: `Pentest - Capture The Flag` | `Kaggle` | `Apps for Automations`
 
