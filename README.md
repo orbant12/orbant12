@@ -7,7 +7,7 @@
 
 • **Libraries**: `React` | `React Native` | `Node` | `Tensorflow` | `Numpy & Pandas` | `Flask` | `CUDA`
 
-• **Specializations**: `Machine Learning` | `Web Development` | `Mobile Development` | `Penetration Testing` 
+• **Specializations**: `Machine Learning` | `Web Development` | `Mobile Development` | `Penetration Testing`
 
 • **Other**: `Docker` | `Git` | `Vite` | `Firebase` | `AWS`
 
