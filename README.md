@@ -2,8 +2,10 @@
 <h3 align="center">A passionate NeoVim enjoyer & Computer Science student at Amsterdam
 
 ## 📦 Skills
+
+• **Changed My Life**: `Typescript`| `Tailwind` | `Go` | `Expo` 
   
-• **Languages**: `Javascript` | `Python` | `Rust` | `Typescript` | `Swift` | `HTML` | `CSS` | `SQL`
+• **Languages**: `Typescript`| `Javascript` | `Python` | `Rust` | `Typescript` | `Swift` | `HTML` | `CSS` | `SQL`
 
 • **Libraries**: `React` | `React Native` | `Node` | `Tensorflow` | `Numpy & Pandas` | `Flask` | `CUDA`
 
