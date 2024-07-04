@@ -21,7 +21,7 @@
   - `FFMPEG`, `JS`, `React`, `Tensorflow`, `Node`,
 
 
-### Pocket Protect: https://github.com/orbant12/PocketProtect.git
+### Pocket Protect: https://github.com/orbant12/PocketProtect
   - `Next.js`, `React Native`, `Go`, `Tensorflow`, `Expo`
 ---
 
