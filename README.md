@@ -21,7 +21,7 @@
   - `FFMPEG`, `JS`, `React`, `Tensorflow`, `Node`,
 
 ### Pocket Protect: [ mailto:orbant1@gmail.com ]
-  - `Next.js`
+  - `Next.js`, `React Native`, `Go`, `Tensorflow`, `Expo`
 ---
 
 ## 📫 Contact
