@@ -15,14 +15,14 @@
 
 ---
 
-# 📫 Proudest Projects
+## 📫 Proudest Projects
 
-## Pocket Protect: https://github.com/orbant12/PocketProtect
+### Pocket Protect: https://github.com/orbant12/PocketProtect
   - `Next.js`, `React Native`, `Go`, `Tensorflow`, `Expo`
     
 
 
-## Clippify: https://github.com/orbant12/Clippify
+### Clippify: https://github.com/orbant12/Clippify
   - `FFMPEG`, `JS`, `React`, `Tensorflow`, `Node`,
 
 
