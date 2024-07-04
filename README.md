@@ -17,7 +17,7 @@
 
 ## 📫 Proudest Projects
 
-### [Clippify: ](https://github.com/orbant12/Clippify)   
+### Clippify: https://github.com/orbant12/Clippify
   - `FFMPEG`, `JS`, `React`, `Tensorflow`, `Node`,
 
 
