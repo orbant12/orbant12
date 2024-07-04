@@ -15,6 +15,12 @@
 
 ---
 
+## 📫 Proudest Projects
+- **Clippify**: [ mailto:orbant1@gmail.com ]
+- **Pocket Protect**: [ mailto:orbant1@gmail.com ]
+
+---
+
 ## 📫 Contact
 - **Email**: [ mailto:orbant1@gmail.com ]
 - For a quick response, DM me on [Instagram](https://www.instagram.com/mirayatech/) or [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/)
