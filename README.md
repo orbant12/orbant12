@@ -17,9 +17,9 @@
 
 ## 📫 Proudest Projects
 
-###Clippify: [ mailto:orbant1@gmail.com ]
+### Clippify: [ mailto:orbant1@gmail.com ]
 
-###Pocket Protect: [ mailto:orbant1@gmail.com ]
+### Pocket Protect: [ mailto:orbant1@gmail.com ]
 
 ---
 
