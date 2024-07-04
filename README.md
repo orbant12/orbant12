@@ -5,7 +5,7 @@
 
 • **Favorite Things**: `Typescript`| `Tailwind` | `Go` | `Expo` 
   
-• **Languages**: `Typescript`| `Javascript` | `Python` | `Rust` | `Typescript` | `Swift` | `HTML` | `CSS` | `SQL`
+• **Languages**: `Typescript`| `Javascript`| `Go` | `Python` | `Rust` | `Typescript` | `Swift` | `HTML` | `CSS` | `SQL`
 
 • **Libraries**: `React` | `React Native` | `Node` | `Tensorflow` | `Numpy & Pandas` | `Flask` | `CUDA`
 
