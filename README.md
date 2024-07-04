@@ -17,8 +17,8 @@
 
 ## 📫 Proudest Projects
 
-### [Clippify: ](https://github.com/orbant12/Clippify)
-  - `FFMPEG`, `JS`, `React`, `Tensorflow`, `Node`,
+### [Clippify: ](https://github.com/orbant12/Clippify)   - `FFMPEG`, `JS`, `React`, `Tensorflow`, `Node`,
+
 
 ### Pocket Protect: [ mailto:orbant1@gmail.com ]
   - `Next.js`, `React Native`, `Go`, `Tensorflow`, `Expo`
