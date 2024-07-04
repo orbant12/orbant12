@@ -3,7 +3,7 @@
 
 ## 📦 Skills
 
-• **Changed My Life**: `Typescript`| `Tailwind` | `Go` | `Expo` 
+• **Favorite**: `Typescript`| `Tailwind` | `Go` | `Expo` 
   
 • **Languages**: `Typescript`| `Javascript` | `Python` | `Rust` | `Typescript` | `Swift` | `HTML` | `CSS` | `SQL`
 
