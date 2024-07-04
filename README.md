@@ -18,7 +18,7 @@
 ## 📫 Proudest Projects
 
 ### Clippify: [ mailto:orbant1@gmail.com ]
-  - `FFMPEG`
+  - `FFMPEG`, `JS`, `React`, `Tensorflow`, `Node`,
 
 ### Pocket Protect: [ mailto:orbant1@gmail.com ]
   - `Next.js`
