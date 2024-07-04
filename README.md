@@ -7,7 +7,7 @@
   
 • **Languages**: `Typescript`| `Javascript`| `Go` | `Python` | `Rust` | `Typescript` | `Swift` | `HTML` | `CSS` | `SQL`
 
-• **Libraries**: `React` | `React Native` | `Node` | `Tensorflow` | `Tailwind` | `Numpy & Pandas` | `Flask` | `CUDA` 
+• **Libraries & Frameworks**: `Next.js` | `React` | `React Native` | `Node` | `Tensorflow` | `Tailwind` | `Numpy & Pandas` | `Flask` | `CUDA` 
 
 • **Other**: `Docker` | `Git` | `Vite` | `Firebase` | `AWS`
 
