@@ -18,9 +18,10 @@
 ## 📫 Proudest Projects
 
 ### Clippify: [ mailto:orbant1@gmail.com ]
+  - `FFMPEG`
 
 ### Pocket Protect: [ mailto:orbant1@gmail.com ]
-
+  - `Next.js`
 ---
 
 ## 📫 Contact
