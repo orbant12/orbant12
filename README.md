@@ -18,7 +18,7 @@
 ## 📫 Proudest Projects
 
 ### Pocket Protect: https://github.com/orbant12/PocketProtect
-  - `Next.js`, `React Native`, `Go`, `Tensorflow`, `Expo`
+  - `Next.js`, `React Native`, `Go`, `Typescript`, `Tensorflow`, `Expo`, `Flask`, 
     
 
 
