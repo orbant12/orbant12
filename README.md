@@ -4,7 +4,7 @@
 ## 📦 Skills 
 
 • **Favorite Things**: `Typescript`| `Tailwind` | `Go` | `Expo` 
-  
+   
 • **Languages**: `Typescript`| `Javascript`| `Go` | `Python` | `C++` | `Swift` | `HTML` | `CSS` | `SQL`
 
 • **Libraries & Frameworks**: `Next.js` | `React` | `React Native` | `Node` | `Tensorflow` | `Tailwind` | `Numpy & Pandas` | `Flask` | `CUDA` 
