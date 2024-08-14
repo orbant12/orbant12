@@ -16,7 +16,7 @@
 ## 📫 Proudest Projects
 
 ### Pocket Protect: [Full Project](https://github.com/orbant12/PocketProtect)
-  - `Next.js`, `React Native`, `Go`, `Typescript`, `Tensorflow`, `Expo`, `Flask`, `Docker`, `AWS EC2 & S3`, `Firebase Firestore DB`
+  - `Next.js`, `React Native`, `Go`, `Typescript`, `Tensorflow`, `Expo`, `Flask`, `Docker`, `AWS EC2 & S3`, `Firebase Firestore DB`, `OOP`
     
 
 
