@@ -11,7 +11,7 @@
 
 • **Other**: `Docker` | `Git` | `Vite` | `Firebase` | `AWS` 
 
----
+--- 
 
 ## 📫 Proudest Projects
 
