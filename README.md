@@ -2,7 +2,7 @@
 <h3 align="center">A passionate NeoVim enjoyer & Computer Science student at Amsterdam
 
 ## 📦 Skills 
-
+ 
 • **Favorite Things**: `Typescript`| `Tailwind` | `Go` | `Expo` 
    
 • **Languages**: `Typescript`| `Javascript`| `Go` | `Python` | `C++` | `Swift` | `HTML` | `CSS` | `SQL`
