@@ -27,7 +27,7 @@
 ### BAPC - Algorithm Programming Team Contest (10th) [See More](https://2023.bapc.eu/contest/)
   - `Java`, `C++`, `C`, `Python`,
 
-### VU Cyber Security - (Teams of 3) Capture The Flag 
+### VU Cyber Security - (Teams of 3) Capture The Flag [See More](https://www.vusec.net)
  
 
 
