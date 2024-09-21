@@ -24,7 +24,7 @@
   - `FFMPEG`, `JS`, `React`, `Tensorflow`, `Node`,
 
 
-### BAPC - Algorithm Programming Team Contest (10th) [See More](https://2023.bapc.eu/contest/)
+### BAPC - Algorithm Programming Team Contest (10th) [See More](https://github.com/orbant12/BAPC-Algorithm_Programming_Contest__VUTeam-Solutions.git)
   - `Java`, `C++`, `C`, `Python`,
 
 ### VU Cyber Security - (Teams of 3) Capture The Flag [See More](https://www.vusec.net)
