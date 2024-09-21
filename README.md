@@ -15,12 +15,12 @@
  
 ## 📫 Proudest Projects
 
-### Pocket Protect: [Full Project](https://github.com/orbant12/PocketProtect)
+### Pocket Protect: [Full Project Github](https://github.com/orbant12/PocketProtect)
   - `Next.js`, `React Native`, `Go`, `Typescript`, `Tensorflow`, `Expo`, `Flask`, `Docker`, `AWS EC2 & S3`, `Firebase Firestore DB`, `OOP`
     
 
 
-### Clippify: https://github.com/orbant12/Clippify
+### Clippify: [Full Project Github](https://github.com/orbant12/Clippify)
   - `FFMPEG`, `JS`, `React`, `Tensorflow`, `Node`,
 
 
