@@ -5,7 +5,7 @@
  
 • **Favorite Things**: `Typescript`| `Tailwind` | `Go`   
    
-• **Languages**: `Typescript`| `Javascript`| `Go` | `Python` | `C++` | `Java` | `Swift` | `HTML` | `CSS` | `SQL` | `C` 
+• **Languages**: `Typescript`| `Javascript`| `Go` | `Python` | `C++` | `Java` | `Swift` | `HTML` | `CSS` | `SQL` 
 
 • **Libraries & Frameworks**: `Next.js` | `React` | `React Native` | `Node` | `Tensorflow` | `Tailwind` | `Numpy & Pandas` | `Flask` | `CUDA` 
 
@@ -26,10 +26,7 @@
 
 ### BAPC - Algorithm Programming Team Contest (10th) [See More](https://github.com/orbant12/BAPC-Algorithm_Programming_Contest__VUTeam-Solutions.git)
   - `Java`, `C++`, `C`, `Python`,
-
-### VU Cyber Security - (Teams of 3) Capture The Flag [See More](https://www.vusec.net)
  
-
 
 ---
 
