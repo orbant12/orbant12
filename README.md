@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science student at VU Amsterdam
 
 ## 📦 Skills 
- 
+  
 • **Favorite Things**: `Typescript`| `Tailwind` | `Go`    
    
 • **Languages**: `Typescript`| `Javascript`| `Go` | `Python` | `C++` | `Java` | `Swift` | `HTML` | `CSS` | `SQL` | `MATLAB`
