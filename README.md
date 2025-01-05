@@ -8,7 +8,7 @@
 • **Languages**: `Typescript`| `Javascript`| `Go` | `Python` | `C++` | `Java` | `Swift` | `HTML` | `CSS` | `SQL` | `MATLAB`
 
 • **Libraries & Frameworks**: `Next.js` | `React` | `React Native` | `Node` | `Tensorflow` | `Tailwind` | `Numpy & Pandas` | `Flask` | `CUDA` 
-
+ 
 • **Other**: `Docker` | `Git` | `Vite` | `Firebase` | `AWS` 
 
 --- 
