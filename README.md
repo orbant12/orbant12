@@ -21,7 +21,7 @@
 
 
 ### Clippify: [Full Project Github](https://github.com/orbant12/Clippify)
-  - `FFMPEG`, `JS`, `React`, `Tensorflow`, `Node`,
+  - `FFMPEG`, `JS`, `React`, `Tensorflow`, `Node`
 
 
 ### BAPC - Algorithm Programming Team Contest (10th) [See More](https://github.com/orbant12/BAPC-Algorithm_Programming_Contest__VUTeam-Solutions.git)
