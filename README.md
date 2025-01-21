@@ -37,7 +37,7 @@
 ---
 
 ## 📦 Other
-- 📝 My portfolio Website [ https://betterbyte.net ]
+- 📝 My portfolio Website [ https://tamas-orban.dev ]
 
 
 
