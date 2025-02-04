@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I’m Tamas Orban 👋</h1>
+ <h1 align="center">Hi, I’m Tamas Orban 👋</h1>
 <h3 align="center">A passionate Computer Science student at VU Amsterdam
 
 ## 📦 Skills 
   
 • **Favorite Things**: `Typescript`| `Tailwind` | `Go`    
    
-• **Languages**: `Typescript`| `Javascript`| `Go` | `Python` | `C++` | `Java` | `Swift` | `HTML` | `CSS` | `SQL` | `MATLAB` | `PHP` 
+• **Languages**: `Typescript`| `Javascript`| `Go` | `Python` | `C++` | `Java` | `Swift` | `HTML` | `CSS` | `SQL` | `MATLAB` | `PHP` | `Assembly`
 
 • **Libraries & Frameworks**: `Next.js` | `React` | `React Native` | `Node` | `Tensorflow` | `Tailwind` | `Numpy & Pandas` | `Flask` | `CUDA` 
  
