@@ -3,7 +3,7 @@
 
 ## 📦 Skills 
   
-• **Favorite Things**: `Typescript`| `Tailwind` | `Go`    
+• **Favorite Things**: `Typescript`| `Tailwind` | `Go`     
    
 • **Languages**: `Typescript`| `Javascript`| `Go` | `Python` | `C++` | `Java` | `Swift` | `HTML` | `CSS` | `SQL` | `MATLAB` | `PHP` | `Assembly`
 
