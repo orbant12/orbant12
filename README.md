@@ -19,8 +19,8 @@
   - `Next.js`, `React Native`, `Go`, `Typescript`, `Tensorflow`, `Expo`, `Flask`, `Docker`, `AWS EC2 & S3`, `Firebase Firestore DB`, `OOP`
 
 
-### [placed 31 out of 1081 uny] Hack The Box - University CTF: [Full Project Github](https://github.com/orbant12/PocketProtect)
-  - `Next.js`, `React Native`, `Go`, `Typescript`, `Tensorflow`, `Expo`, `Flask`, `Docker`, `AWS EC2 & S3`, `Firebase Firestore DB`, `OOP`
+### Hack The Box - University CTF: placed 31 out of 1081 universities
+  - `Web Hacking`, `JSON Tokens`, `Go`, `Typescript`, `Tensorflow`, `Expo`, `Flask`, `Docker`, `AWS EC2 & S3`, `Firebase Firestore DB`, `OOP`
     
 ### Clippify: [Full Project Github](https://github.com/orbant12/Clippify)
   - `FFMPEG`, `JS`, `React`, `Tensorflow`, `Node`
