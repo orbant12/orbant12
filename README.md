@@ -9,7 +9,7 @@
 
 • **Libraries & Frameworks**: `Next.js` | `React` | `React Native` | `Node` | `Tensorflow` | `Tailwind` | `Numpy & Pandas` | `Flask` | `CUDA` | `JQuery`
  
-• **Other**: `Docker` | `Git` | `Vite` | `Firebase` | `AWS` 
+• **Other**: `Docker` | `Git` | `Vite` | `Firebase` | `AWS` | `SQLite`
 
 --- 
  
