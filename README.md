@@ -15,7 +15,7 @@
  
 ## 📫 Proudest Projects
 
-### [STARTUP] Pocket Protect: [Full Project Github](https://github.com/orbant12/PocketProtect)
+### [STARTUP] Skin Screen: [Full Project Github](https://github.com/orbant12/SkinScreen)
   - `Next.js`, `React Native`, `Go`, `Typescript`, `Tensorflow`, `Expo`, `Flask`, `Docker`, `AWS EC2 & S3`, `Firebase Firestore DB`, `OOP`
 
 
