@@ -20,7 +20,7 @@
 
 
 ### Hack The Box - University CTF: placed 31 out of 1081 universities
-  - `Web Hacking`, `JSON Tokens`, `Go`, `Typescript`, `Tensorflow`, `Expo`, `Flask`, `Docker`, `AWS EC2 & S3`, `Firebase Firestore DB`, `OOP`
+  - `Web Hacking`, `JSON Tokens`, `Javascript`, `Nmap`, `Dirb`, `Priv Esc`
     
 ### Clippify: [Full Project Github](https://github.com/orbant12/Clippify)
   - `FFMPEG`, `JS`, `React`, `Tensorflow`, `Node`
@@ -29,7 +29,6 @@
 ### BAPC - Algorithm Programming Team Contest (10th) [See More](https://github.com/orbant12/BAPC-Algorithm_Programming_Contest__VUTeam-Solutions.git)
   - `Java`, `C++`, `C`, `Python`,
  
-
 ---
 
 ## 📫 Contact
