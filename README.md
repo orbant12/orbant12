@@ -19,7 +19,7 @@
   - `Next.js`, `React Native`, `Go`, `Typescript`, `Tensorflow`, `Expo`, `Flask`, `Docker`, `AWS EC2 & S3`, `Firebase Firestore DB`, `OOP`
 
 
-### Hack The Box - University CTF: placed 31 out of 1081 universities
+### Hack The Box - University CTF: placed 31 out of 1081 universities [Visit Cert](https://www.linkedin.com/posts/tamas-orban-30921524b_university-ctf-2024-binary-badlands-activity-7274827222929031169-bqFM?utm_source=share&utm_medium=member_desktop)
   - `Web Hacking`, `JSON Tokens`, `Javascript`, `Nmap`, `Dirb`, `Priv Esc`
     
 ### Clippify: [Full Project Github](https://github.com/orbant12/Clippify)
