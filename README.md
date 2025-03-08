@@ -11,6 +11,8 @@
  
 • **Other**: `Docker` | `Git` | `Vite` | `Firebase` | `AWS` | `SQLite`
 
+• **Certifications**: `CompTA Security + (soon)` | `CompTA Network +` 
+
 --- 
  
 ## 📫 Proudest Projects
