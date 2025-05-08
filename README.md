@@ -11,7 +11,7 @@
  
 • **Other**: `Docker` | `Git` | `Vite` | `Firebase` | `AWS` | `SQLite`
 
-• **Certifications**: `CompTA Security+ (soon)` | `CompTA Network+ (soon)` 
+• **Certifications**: `CompTA Security+`
 
 --- 
  
